@@ -35,13 +35,13 @@ app.use(express.urlencoded({ extended: false }));
 
 const connection = mysql.createConnection({
 
-    host: "localhost",
+    host: "bifipqnv4vwy2uw95mnj-mysql.services.clever-cloud.com",
 
-    user: "root",
+    user: "uwxpxvbavc5trgcn",
 
-    password: "",
+    password: "BHi8UB6nbWDMYseV2JYF",
 
-    database: "employee"
+    database: "bifipqnv4vwy2uw95mnj"
 
 });
 
